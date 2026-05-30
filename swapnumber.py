@@ -6,3 +6,5 @@ b = temp
 print("After swapping: a =", a, "and b =", b)
 print(type(a), type(b))
 print(int(a) + int(b))
+
+print(0x123)
